@@ -1,0 +1,16 @@
+C:\Users\steff\Downloads\PC3-Ejercicio-1\PC3-Ejercicio-1\bin\Debug\net10.0-windows\PC3-Ejercicio-1.exe
+C:\Users\steff\Downloads\PC3-Ejercicio-1\PC3-Ejercicio-1\bin\Debug\net10.0-windows\PC3-Ejercicio-1.deps.json
+C:\Users\steff\Downloads\PC3-Ejercicio-1\PC3-Ejercicio-1\bin\Debug\net10.0-windows\PC3-Ejercicio-1.runtimeconfig.json
+C:\Users\steff\Downloads\PC3-Ejercicio-1\PC3-Ejercicio-1\bin\Debug\net10.0-windows\PC3-Ejercicio-1.dll
+C:\Users\steff\Downloads\PC3-Ejercicio-1\PC3-Ejercicio-1\bin\Debug\net10.0-windows\PC3-Ejercicio-1.pdb
+C:\Users\steff\Downloads\PC3-Ejercicio-1\PC3-Ejercicio-1\obj\Debug\net10.0-windows\PC3_Ejercicio_1.Form1.resources
+C:\Users\steff\Downloads\PC3-Ejercicio-1\PC3-Ejercicio-1\obj\Debug\net10.0-windows\PC3-Ejercicio-1.csproj.GenerateResource.cache
+C:\Users\steff\Downloads\PC3-Ejercicio-1\PC3-Ejercicio-1\obj\Debug\net10.0-windows\PC3-Ejercicio-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steff\Downloads\PC3-Ejercicio-1\PC3-Ejercicio-1\obj\Debug\net10.0-windows\PC3-Ejercicio-1.AssemblyInfoInputs.cache
+C:\Users\steff\Downloads\PC3-Ejercicio-1\PC3-Ejercicio-1\obj\Debug\net10.0-windows\PC3-Ejercicio-1.AssemblyInfo.cs
+C:\Users\steff\Downloads\PC3-Ejercicio-1\PC3-Ejercicio-1\obj\Debug\net10.0-windows\PC3-Ejercicio-1.csproj.CoreCompileInputs.cache
+C:\Users\steff\Downloads\PC3-Ejercicio-1\PC3-Ejercicio-1\obj\Debug\net10.0-windows\PC3-Ejercicio-1.dll
+C:\Users\steff\Downloads\PC3-Ejercicio-1\PC3-Ejercicio-1\obj\Debug\net10.0-windows\refint\PC3-Ejercicio-1.dll
+C:\Users\steff\Downloads\PC3-Ejercicio-1\PC3-Ejercicio-1\obj\Debug\net10.0-windows\PC3-Ejercicio-1.pdb
+C:\Users\steff\Downloads\PC3-Ejercicio-1\PC3-Ejercicio-1\obj\Debug\net10.0-windows\PC3-Ejercicio-1.genruntimeconfig.cache
+C:\Users\steff\Downloads\PC3-Ejercicio-1\PC3-Ejercicio-1\obj\Debug\net10.0-windows\ref\PC3-Ejercicio-1.dll
