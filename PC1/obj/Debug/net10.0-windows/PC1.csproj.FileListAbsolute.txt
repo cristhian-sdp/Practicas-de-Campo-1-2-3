@@ -1,0 +1,16 @@
+C:\Users\steff\Downloads\PC1\PC1\obj\Debug\net10.0-windows\PC1.Form1.resources
+C:\Users\steff\Downloads\PC1\PC1\obj\Debug\net10.0-windows\PC1.csproj.GenerateResource.cache
+C:\Users\steff\Downloads\PC1\PC1\obj\Debug\net10.0-windows\PC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steff\Downloads\PC1\PC1\obj\Debug\net10.0-windows\PC1.AssemblyInfoInputs.cache
+C:\Users\steff\Downloads\PC1\PC1\obj\Debug\net10.0-windows\PC1.AssemblyInfo.cs
+C:\Users\steff\Downloads\PC1\PC1\obj\Debug\net10.0-windows\PC1.csproj.CoreCompileInputs.cache
+C:\Users\steff\Downloads\PC1\PC1\bin\Debug\net10.0-windows\PC1.exe
+C:\Users\steff\Downloads\PC1\PC1\bin\Debug\net10.0-windows\PC1.deps.json
+C:\Users\steff\Downloads\PC1\PC1\bin\Debug\net10.0-windows\PC1.runtimeconfig.json
+C:\Users\steff\Downloads\PC1\PC1\bin\Debug\net10.0-windows\PC1.dll
+C:\Users\steff\Downloads\PC1\PC1\bin\Debug\net10.0-windows\PC1.pdb
+C:\Users\steff\Downloads\PC1\PC1\obj\Debug\net10.0-windows\PC1.dll
+C:\Users\steff\Downloads\PC1\PC1\obj\Debug\net10.0-windows\refint\PC1.dll
+C:\Users\steff\Downloads\PC1\PC1\obj\Debug\net10.0-windows\PC1.pdb
+C:\Users\steff\Downloads\PC1\PC1\obj\Debug\net10.0-windows\PC1.genruntimeconfig.cache
+C:\Users\steff\Downloads\PC1\PC1\obj\Debug\net10.0-windows\ref\PC1.dll
